@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m a junior at Northeastern University.
-- 📫 How to reach me: 17741149715
+- 🔭 I’m a junior at NEU.
+- 📫 How to reach me: you guess
 
 
 <!--   GitHub stats graph -->
